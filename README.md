@@ -19,32 +19,32 @@
 
 #### Social Network experience
 
-- NHDK Ten Point Round Founder and Problem Setter.
-- 2022 SITCON Hour of Code Founder.
-- 2022 HSNU x HHSH x CYSH x WGHS Summer Programming Camp Founder.
+- 🌱 NHDK Ten Point Round Founder and Problem Setter.
+- 🌱 2022 SITCON Hour of Code Founder.
+- 🌱 2022 HSNU x HHSH x CYSH x WGHS Summer Programming Camp Founder.
 
 #### Competitive Programming
 
-- 2022 ICPC 國際大學生程式設計競賽 (2022 ICPC Asia Taoyuan Regional Programming Contest) 亞洲區桃園站 銅牌獎
-- 2022 台灣國際資訊奧林匹亞 TOI 線上練習賽 潛力組滿分
-- 2021 Hp Code Wars 全國高中程式設計爭霸戰 第七名
-- 第八屆成大高中生程式設計邀請賽 第九名
-- 2020、2021、2022 YTP 少年圖靈計劃 決賽晉級
-- 2020、2021 學科能力競賽台灣省第五區 資訊科佳作
-- 第八屆大臺南高一程式設計排名賽 第十三名
+- ⚡ 2022 ICPC 國際大學生程式設計競賽 (2022 ICPC Asia Taoyuan Regional Programming Contest) 亞洲區桃園站 銅牌獎
+- ⚡ 2022 台灣國際資訊奧林匹亞 TOI 線上練習賽 潛力組滿分
+- ⚡ 2021 Hp Code Wars 全國高中程式設計爭霸戰 第七名
+- ⚡ 第八屆成大高中生程式設計邀請賽 第九名
+- ⚡ 2020、2021、2022 YTP 少年圖靈計劃 決賽晉級
+- ⚡ 2020、2021 學科能力競賽台灣省第五區 資訊科佳作
+- ⚡ 第八屆大臺南高一程式設計排名賽 第十三名
 
 #### Information Security
 
-- 2021 國立成功大學 T 貓盃基礎資安實務能力競賽 進階實務組 優勝
-- 2020 國立成功大學 T 貓盃基礎資安實務能力競賽 高中職組 優勝
+- 💻 2021 國立成功大學 T 貓盃基礎資安實務能力競賽 進階實務組 優勝
+- 💻 2020 國立成功大學 T 貓盃基礎資安實務能力競賽 高中職組 優勝
 
 #### Science Fairs
 
-- 國立彰化師範大學 未來科技探究與實作競賽 資訊組決賽佳作
+- 📝 國立彰化師範大學 未來科技探究與實作競賽 資訊組決賽佳作
 
 #### Others
 
-- 獲選 2022 台南市高中職優秀青年代表
+- 👯 獲選 2022 台南市高中職優秀青年代表
 
 
 ![LJO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColtenOuO&show_icons=true&theme=tokyonight&hide_border=true)
