@@ -1,6 +1,8 @@
-### Hi, I am Jyun-An Chen (Colten)  👋
+## Hi, I am Jyun-An Chen (Colten)  👋
 
-#### National Cheng Kung University Student
+### 一個投入社群創造資源回饋南部資訊環境的競技程式設計愛好者
+
+### National Cheng Kung University Student
 
 - 💬 Familiar with **Competitive Programming, Algorithm, Data Structures.**
 - 🌱 I’m currently learning Computer **System Administration, Compiler and DataBase.**
