@@ -1,13 +1,16 @@
 ### Hi there 👋
 ![LJO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColtenOuO&show_icons=true&theme=tokyonight&hide_border=true)
-<!--
-**ColtenOuO/ColtenOuO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![LJO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColtenOuO&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Colten's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColtenOuO&show_icons=true&theme=tokyonight&hide_border=true)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ColtenOuO&theme=tokyonight&count_private=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColtenOuO&layout=compact&theme=tokyonight&hide_border=true&hide=html)
 
 
+<!--
+**ColtenOuO/ColtenOuO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
