@@ -1,6 +1,8 @@
-### Hi there 👋
-![LJO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColtenOuO&show_icons=true&theme=tokyonight&hide_border=true)
+### Hi, I am Jyun-An Chen (Colten)  👋
 
+#### National Cheng Kung University Student
+
+![LJO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColtenOuO&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Colten's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColtenOuO&show_icons=true&theme=tokyonight&hide_border=true)
 
