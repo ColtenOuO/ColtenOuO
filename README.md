@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Computer **System Administration, Compiler and DataBase.**
 - 📫 How to reach me: **jun930436@gmail.com** or **f74114744@gs.ncku.edu.tw**
 
-#### My Teach experience
+#### My Teaching experience
 
 - ✨ National Tainan Girls' Senior High School Information Research Club 37th and 38th C++ Advanced Course Lecturer.
 - ✨ National Chia-Yi Girls' Senior High School Basic C++ Program Design and Introduction to Algorithm and Data Structures Lecturer.
