@@ -29,7 +29,6 @@
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -65,24 +64,34 @@
 
 ### 🌱 Open Source Contributions
 
+Active contributor to **[Apache Airflow](https://github.com/apache/airflow)** and its ecosystem (`apache/airflow`, `apache/airflow-site`, …) — shipping bug fixes, code review, and small well-scoped patches upstream.
+
 <p>
   <a href="https://github.com/apache/airflow/pulls?q=is%3Apr+author%3AColtenOuO">
-    <img src="https://img.shields.io/badge/Apache%20Airflow-PRs%20by%20ColtenOuO-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+    <img src="https://img.shields.io/github/issues-search/apache/airflow?query=is%3Apr%20author%3AColtenOuO&label=apache%2Fairflow%20%C2%B7%20Total%20PRs&color=017CEE&logo=apacheairflow&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://github.com/rust-lang/rust/pulls?q=is%3Apr+author%3AColtenOuO">
-    <img src="https://img.shields.io/badge/Rust-PRs%20by%20ColtenOuO-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <a href="https://github.com/apache/airflow/pulls?q=is%3Apr+author%3AColtenOuO+is%3Amerged">
+    <img src="https://img.shields.io/github/issues-search/apache/airflow?query=is%3Apr%20author%3AColtenOuO%20is%3Amerged&label=Merged&color=8957E5&logo=git&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://github.com/search?q=is%3Apr+author%3AColtenOuO+is%3Amerged&type=pullrequests">
-    <img src="https://img.shields.io/badge/All%20Merged%20PRs-Search-2EA44F?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/search?q=author%3AColtenOuO+org%3Aapache&type=pullrequests">
+    <img src="https://img.shields.io/github/issues-search?query=author%3AColtenOuO%20org%3Aapache%20is%3Apr&label=All%20PRs%20across%20%40apache&color=2EA44F&logo=apache&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/contributors-anon/apache/airflow?label=apache%2Fairflow&style=flat-square"/>
-  <img src="https://img.shields.io/github/contributors-anon/rust-lang/rust?label=rust-lang%2Frust&style=flat-square"/>
+  <img src="https://img.shields.io/github/stars/apache/airflow?label=apache%2Fairflow%20%E2%98%85&style=flat-square&color=FFA500&logo=github"/>
+  <img src="https://img.shields.io/github/contributors-anon/apache/airflow?label=apache%2Fairflow%20contributors&style=flat-square&color=017CEE"/>
 </p>
 
-> 🚀 I enjoy reading large-scale codebases and shipping small, well-scoped patches upstream.
+#### 📅 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/ColtenOuO">
+    <img src="https://ghchart.rshah.org/409ba5/ColtenOuO" alt="ColtenOuO's GitHub contribution chart" width="98%"/>
+  </a>
+</p>
+
+> 🚀 I enjoy reading large-scale codebases and shipping small, well-scoped patches upstream — most of my recent activity has been around Apache Airflow's core scheduler and providers.
 
 ---
 
