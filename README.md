@@ -53,7 +53,6 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColtenOuO&layout=compact&theme=tokyonight&hide_border=true&hide=html&langs_count=8"/>
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=ColtenOuO&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=10"/>
 </p>
 
 <p align="center">
@@ -64,7 +63,7 @@
 
 ### 🌱 Open Source Contributions
 
-Active contributor to **[Apache Airflow](https://github.com/apache/airflow)** and its ecosystem (`apache/airflow`, `apache/airflow-site`, …) — shipping bug fixes, code review, and small well-scoped patches upstream.
+Active contributor to **[Apache Airflow](https://github.com/apache/airflow)** and its ecosystem (`apache/airflow`, `apache/airflow-site`, …) — shipping bug fixes and small well-scoped patches upstream.
 
 <p>
   <a href="https://github.com/apache/airflow/pulls?q=is%3Apr+author%3AColtenOuO">
