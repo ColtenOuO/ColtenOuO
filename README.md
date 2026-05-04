@@ -82,14 +82,6 @@ Active contributor to **[Apache Airflow](https://github.com/apache/airflow)** an
   <img src="https://img.shields.io/github/contributors-anon/apache/airflow?label=apache%2Fairflow%20contributors&style=flat-square&color=017CEE"/>
 </p>
 
-#### 📅 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/ColtenOuO">
-    <img src="https://ghchart.rshah.org/409ba5/ColtenOuO" alt="ColtenOuO's GitHub contribution chart" width="98%"/>
-  </a>
-</p>
-
 > 🚀 I enjoy reading large-scale codebases and shipping small, well-scoped patches upstream — most of my recent activity has been around Apache Airflow's core scheduler and providers.
 
 ---
