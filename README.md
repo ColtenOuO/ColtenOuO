@@ -47,16 +47,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ColtenOuO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ColtenOuO&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ColtenOuO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=ColtenOuO&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColtenOuO&layout=compact&theme=tokyonight&hide_border=true&hide=html&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ColtenOuO&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ColtenOuO&layout=compact&theme=tokyonight&hide_border=true&hide=html&langs_count=8"/>
 </p>
 
 ---
@@ -83,6 +79,10 @@ Active contributor to **[Apache Airflow](https://github.com/apache/airflow)** an
 </p>
 
 > 🚀 I enjoy reading large-scale codebases and shipping small, well-scoped patches upstream — most of my recent activity has been around Apache Airflow's core scheduler and providers.
+
+<p align="center">
+  <img src="https://pr-stats.devhk.dev/api/github-pr-stats?username=ColtenOuO&theme=dark&status=merged,open&min_stars=10&limit=12&sort=status,stars_desc,created_date_desc&stats=all&fields=repo,stars,pr_title,pr_number,status,created_date,merged_date&mode=pr-list" alt="GitHub PR Contributions"/>
+</p>
 
 ---
 
