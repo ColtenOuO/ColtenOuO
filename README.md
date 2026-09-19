@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 M.S. student in Computer Science at **National Yang Ming Chiao Tung University (NYCU)**, member of **[IMS Lab](https://www.imslab.org)**.
+- (Now) M.S. student in Computer Science at **National Yang Ming Chiao Tung University (NYCU)**, member of **[IMS Lab](https://www.imslab.org)**.
 - 🎓 B.S. in CSIE from **NCKU** (2022 – 2026), admitted via the **Special Talent Recruitment Program (Competitive Programming Category)**.
 - 🧠 Familiar with **Competitive Programming, Algorithms, Data Structures**.
 - 🌱 Currently digging into **Compilers, Database Systems, and Distributed/Parallel Computing**.
