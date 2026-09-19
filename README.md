@@ -2,6 +2,7 @@
 
 <p align="center">
   <em>Competitive Programmer · CS Educator · Open Source Contributor</em><br/>
+  <sub>M.S. Student in Computer Science @ National Yang Ming Chiao Tung University (NYCU) · <a href="https://www.imslab.org">IMS Lab</a></sub><br/>
   <sub>B.S. in Computer Science @ National Cheng Kung University (NCKU)</sub>
 </p>
 
@@ -16,31 +17,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Admitted to NCKU CSIE via the **Special Talent Recruitment Program (Competitive Programming Category)**, 2022 – 2026 (expected).
+- 🎓 M.S. student in Computer Science at **National Yang Ming Chiao Tung University (NYCU)**, member of **[IMS Lab](https://www.imslab.org)**.
+- 🎓 B.S. in CSIE from **NCKU** (2022 – 2026), admitted via the **Special Talent Recruitment Program (Competitive Programming Category)**.
 - 🧠 Familiar with **Competitive Programming, Algorithms, Data Structures**.
 - 🌱 Currently digging into **Compilers, Database Systems, and Distributed/Parallel Computing**.
 - 🛠️ Side projects ranging from **Online Judge backends** to **POS & analytics systems**.
 - 📫 Reach me at **f74114744@gs.ncku.edu.tw**
-
----
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
 
 ---
 
