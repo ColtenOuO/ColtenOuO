@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Competitive Programmer · CS Educator · Open Source Contributor</em><br/>
-  🎓 M.S. Student in Computer Science @ National Yang Ming Chiao Tung University (NYCU) · <a href="https://www.imslab.org">IMS Lab</a><br/>
+  (Now) M.S. Student in Computer Science @ National Yang Ming Chiao Tung University (NYCU) · <a href="https://www.imslab.org">IMS Lab</a><br/>
   🎓 B.S. in Computer Science @ National Cheng Kung University (NCKU)
 </p>
 
